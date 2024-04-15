@@ -1,0 +1,125 @@
+.hat {
+    margin-top: 10px;
+    color: #000000;
+   
+}
+.price {
+    color: red;
+    font-size: 20px;
+    
+}
+header{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    background-color:white;
+}
+.zast{
+    margin-top: 100px;
+    background-color: orange;
+}
+.wh {
+    background-color: orange;
+   
+}
+.img {
+    margin-left: 250px;
+    margin-right: 200px;
+}
+.car {
+    
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.all {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.hot {
+    margin-right: 300px;
+}
+main {
+    margin-top: 10px;
+    text-align: center;
+}
+.centered {
+    text-align: center;
+    margin-top: 350px;
+    
+}
+.pay {
+    display: flex;
+    justify-content: center;
+}
+.button {
+    background-color: red;
+}
+.button1 {
+    background-color: red;
+}
+.all2 {
+    display: flex;
+    justify-content: center;
+}
+.why {
+    background-color: yellow;
+}
+.all3 {
+    display: flex;
+    justify-content: center;
+}
+.all4 {
+    background-color:red;
+  justify-content: space-between;
+    display: flex;
+
+  text-align: start;
+  max-width: 4000px;
+}
+.roz {
+    color: white;
+
+}
+.roz1 {
+    justify-content: end;
+}
+.form {
+  text-align: start;
+  margin-left: 800px;
+}
+.podder {
+    margin-left: 1700px;
+   position: fixed;
+}
+#name {
+    background-color: #000000;
+}
+.win1 {
+    background-color:rgba(red, green, blue, alpha) ;
+    z-index: auto;
+    border: #000000;
+}
+.zak{
+    color: black;
+}
+.roll {
+    background-color:orange;
+}
+.rast{
+    background-color: orange;
+}
+body {
+    background-image:url('https://гостиница-воткинск.рф/wp-content/uploads/2021/10/2122-votkinsk.jpg');    
+    background-attachment: fixed;
+}
+.king {
+    top: 100;
+    bottom: 100;
+    margin-top: 100px;
+}
+.rec {
+    margin-bottom: 1700px;
+    position: fixed;
+}
